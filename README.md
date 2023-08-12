@@ -1,1 +1,3 @@
 # CRUD_COMPLETO_DESARROLLOweb
+
+adjunto modelaje de CRUD COMPLETO en JS HTML y BOOSTRAP
